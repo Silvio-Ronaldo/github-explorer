@@ -1,7 +1,9 @@
 import React from 'react';
 
-function App() {
-	return <h1>Olá Mundo!</h1>;
-}
+import Routes from './routes';
+
+const App: React.FC = () => {
+	return <Routes />;
+};
 
 export default App;
