@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/logo.svg" alt="Github Explorer Logo" height=100 />
+ 	Github Explorer
 </h1>
 
 <p align="center"><strong>🔍 Search for repositories of your favorite codes in GitHub Explorer.</strong></br>Practical project for study<p>
@@ -48,14 +48,14 @@
   <strong>To access and test the Github Explorer website, click on the link: https://github-explorer-omega-sage.vercel.app</strong>
 </p>
 
-<h3>Home</h3>
+<h3>Search repositories</h3>
   <p align="center">
-    <img src="./assets/home.gif" alt="Podcastr Home" />
+    <img src="./assets/search-repos.gif" alt="Search Repo Github Explorer" />
   </p>
 
-<h3>Player</h3>
+<h3>Exploring Details</h3>
   <p align="center">
-    <img src="./assets/player.gif" alt="Podcastr Player" />
+    <img src="./assets/details.gif" alt="Exploring Details Github Explorer" />
   </p>
   
   
